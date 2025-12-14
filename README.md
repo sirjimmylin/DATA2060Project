@@ -31,7 +31,7 @@ You can reproduce this environment using the Project YAML file provided here: [P
 
 [data Folder](data): For our data, we used the Iris and Breast Cancer datasets, directly calling from scikit-learn. More information can be found in the data Markdown file.
 
-### Authors
+## Authors
 Janet Joseph janetjoseph@brown.edu
 
 Jimmy Lin jimmy_lin@brown.edu
@@ -39,3 +39,6 @@ Jimmy Lin jimmy_lin@brown.edu
 Paneri Patel paneri_patel@brown.edu
 
 Zehui Zhou zehui_zhou@brown.edu
+
+## License
+This project is licensed under the MIT License.
